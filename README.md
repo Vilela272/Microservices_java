@@ -1,4 +1,4 @@
-## :computer:  - Repositório destinado ao time de desenvolvimento.
+## :computer:  - Repositório destinado aos projetos de Microservices.
 
 #### :scroll:  - Microservices Java
 ```bash
